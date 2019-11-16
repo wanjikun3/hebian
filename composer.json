@@ -1,0 +1,15 @@
+{
+    "name":"hebian/framework",
+    "description": "hebian,framework",
+    "keywords": ["framework", "hebian"],
+    "license": "MIT",
+    "homepage": "http://www.hebian.net",
+    "require": {
+        "hebian/framework":"*"
+    },
+    "autoload": {
+	    "psr-4":{
+            "hebian\\" :"src/"
+	    }
+    }
+}
