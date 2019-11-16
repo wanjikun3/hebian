@@ -5,7 +5,7 @@
     "license": "MIT",
     "homepage": "http://www.hebian.net",
     "require": {
-        "hebian/framework":"*"
+         
     },
     "autoload": {
 	    "psr-4":{
